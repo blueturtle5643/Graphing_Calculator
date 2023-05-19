@@ -1,0 +1,7 @@
+x
+x ^ 2
+sin ( x )
+cos ( x )
+tan ( x )
+ln ( x )
+exp ( x )

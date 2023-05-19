@@ -1,0 +1,17 @@
+release/Coordinate_Translator.o
+release/Graph.o
+release/Plot.o
+release/RPN.o
+release/animate.o
+release/sidebar.o
+release/system.o
+release/ShuntingYard.o
+release/Token.o
+release/RightParentheses.o
+release/LeftParentheses.o
+release/Numbers.o
+release/Operators.o
+release/Variables.o
+release/Negatives.o
+release/Functions.o
+release/main.o

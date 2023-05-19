@@ -1,0 +1,17 @@
+debug/Coordinate_Translator.o
+debug/Graph.o
+debug/Plot.o
+debug/RPN.o
+debug/animate.o
+debug/sidebar.o
+debug/system.o
+debug/ShuntingYard.o
+debug/Token.o
+debug/RightParentheses.o
+debug/LeftParentheses.o
+debug/Numbers.o
+debug/Operators.o
+debug/Variables.o
+debug/Negatives.o
+debug/Functions.o
+debug/main.o

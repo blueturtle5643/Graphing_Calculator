@@ -1,0 +1,7 @@
+( tan ( x ) / sin ( x ) ) + ( 100 - x ^ 2 ) ^ ( 1 / 2 )
+sin ( 2 * sin 2 * sin ( 2 * sin ( x ) ) )
+sin ( x ) + cos ( 3 * x )
+( 3 + 5 + ( 9 + 2 ) )
+sqrt ( 1 - x ^ 2 )
+ln ( x )
+exp ( x )
